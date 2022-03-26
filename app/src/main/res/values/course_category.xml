@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_category">
+        <item>BSIT</item>
+        <item>BSMT</item>
+        <item>BSBA</item>
+        <item>BSMT</item>
+        <item>BSCE</item>
+        <item>BEED</item>
+
+    </string-array>
+</resources>
